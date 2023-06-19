@@ -1,0 +1,10 @@
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\bin\Debug\Cadastro_AuE_Solucoes.exe.config
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\bin\Debug\Cadastro_AuE_Solucoes.exe
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\bin\Debug\Cadastro_AuE_Solucoes.pdb
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\obj\Debug\Cadastro_AuE_Solucoes.csproj.AssemblyReference.cache
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\obj\Debug\Cadastro_AuE_Solucoes.Form1.resources
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\obj\Debug\Cadastro_AuE_Solucoes.Properties.Resources.resources
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\obj\Debug\Cadastro_AuE_Solucoes.csproj.GenerateResource.cache
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\obj\Debug\Cadastro_AuE_Solucoes.csproj.CoreCompileInputs.cache
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\obj\Debug\Cadastro_AuE_Solucoes.exe
+C:\Users\Michel\OneDrive\Área de Trabalho\AuE Soluções - Michel Gomes de Andrade\Cadastro_AuE_Solucoes\obj\Debug\Cadastro_AuE_Solucoes.pdb
